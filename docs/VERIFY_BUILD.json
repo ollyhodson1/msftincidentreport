@@ -1,0 +1,23 @@
+{
+  "build": "MSFT_INCIDENT_REPORT_FINAL_CHECKED_V3",
+  "checked_at": "2026-06-08",
+  "confirmed_absent": [
+    "Save draft",
+    "MSFT styling check",
+    "Simulation context:",
+    "Simulation details",
+    "Submit for simulation review",
+    "Export JSON",
+    "Clear form",
+    "Print summary",
+    "Student nurse / practice supervisor / facilitator"
+  ],
+  "confirmed_present": [
+    "Review summary",
+    "Submit report",
+    "Mary Seacole Foundation Trust",
+    "Internal incident reporting",
+    "MSFT-IR"
+  ],
+  "notes": "Self-contained single HTML app in docs/index.html. Root index.html duplicates docs/index.html. No React/CDN/npm required."
+}
