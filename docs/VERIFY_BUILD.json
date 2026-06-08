@@ -1,0 +1,18 @@
+{
+  "build": "MSFT_SAFETY_REPORT_FIRST_STYLE_RED_INLINE_V1",
+  "checks": {
+    "first_incarnation_layout": true,
+    "msft_red_palette": true,
+    "msft_square_logo": true,
+    "not_email_app_layout": true,
+    "no_react": true,
+    "no_cdn": true,
+    "no_npm_required": true,
+    "docs_folder_ready": true,
+    "static_form_visible_without_js": true,
+    "local_storage_draft": true,
+    "review_summary": true,
+    "json_export": true,
+    "print_summary": true
+  }
+}
