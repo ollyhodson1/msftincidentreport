@@ -1,0 +1,15 @@
+{
+  "build": "MSFT_SIM_SAFETY_V1",
+  "checks": {
+    "github_pages_docs_folder": true,
+    "react_cdn_no_build_step": true,
+    "msft_mail_colour_scheme_applied": true,
+    "msft_simulated_logo_present": true,
+    "simulation_context_banner_present": true,
+    "simulation_details_section_present": true,
+    "local_storage_draft_save": true,
+    "json_export": true,
+    "print_summary": true,
+    "not_called_datix": true
+  }
+}
