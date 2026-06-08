@@ -1,0 +1,9 @@
+{
+  "build": "MSFT_STATIC_WORKING_V2",
+  "no_external_dependencies": true,
+  "single_file_app": true,
+  "github_pages_folder": "docs",
+  "msft_colour_scheme": "rose #e11d48 / rose-dark #be123c / rose-light #ffe4e6",
+  "simulation_only_wording": true,
+  "static_html_visible_before_javascript": true
+}
