@@ -1,0 +1,9 @@
+{
+  "build": "VICTORIA_INCIDENT_REPORT_IP_NEXT_BUTTON_NO_BROWSER_ALERTS_20260608",
+  "browser_alerts_removed": true,
+  "submitted_modal_text_updated": true,
+  "submitted_modal_has_go_to_ip_button": true,
+  "go_to_ip_href": "./ip-form.html",
+  "top_ip_button_removed": true,
+  "in_app_validation_modal": true
+}
