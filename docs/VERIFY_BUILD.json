@@ -1,0 +1,17 @@
+{
+  "build": "MSFT_SLR_RED_FULLSCREEN_V2",
+  "checks": {
+    "github_pages_docs_folder": true,
+    "react_cdn_no_build_step": true,
+    "red_msft_palette_used": true,
+    "same_mail_colour_variables_used": true,
+    "msft_square_logo_style_present": true,
+    "full_screen_layout_present": true,
+    "desktop_taskbar_present": true,
+    "simulation_only_banner_present": true,
+    "not_called_datix": true,
+    "local_storage_draft_save": true,
+    "json_export": true,
+    "print_summary": true
+  }
+}
